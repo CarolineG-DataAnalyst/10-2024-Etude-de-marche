@@ -9,8 +9,8 @@ Données d'entrée:
 
 Les livrables:
 
-- notebook 1 contenant le nettoyage, l’analyse exploratoire des données, les différents clusterings à comparer.
-- notebook 2 contenant le clusterinng sélectionner pour l'application.
+- notebook 1 contenant la préparation, le nettoyage et l’analyse exploratoire des données.
+- notebook 2 contenant les clusterings effectués, et les différentes visualisations associées.
 - le support de présentation pour expliquer le contexte, la démarche et mes recommandations.
 
 Compétences évaluées:
