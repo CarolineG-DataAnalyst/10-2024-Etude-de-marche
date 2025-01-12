@@ -9,8 +9,8 @@ Data analyst au sein de l'entreprise "la poule qui chante", ma mission est de re
 
 ## Les livrables:
 
-- notebook 1 contenant la préparation, le nettoyage et l’analyse exploratoire des données.
-- notebook 2 contenant les clusterings effectués, et les différentes visualisations associées.
+- notebook 1 python contenant la préparation, le nettoyage et l’analyse exploratoire des données.
+- notebook 2 python contenant les clusterings effectués, et les différentes visualisations associées.
 - le support de présentation pour expliquer le contexte, la démarche et mes recommandations.
 
 ## Compétences évaluées:
